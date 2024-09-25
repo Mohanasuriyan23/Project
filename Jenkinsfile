@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('hello  kolavari webhook ') 
+        stage('Hello  kolavari webhook ') 
         {
             steps 
             {
