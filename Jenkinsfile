@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('Hello  kolavari webhook ') 
+        stage('Hello  kolavari webhook for Jenkins project ') 
         {
             steps 
             {
