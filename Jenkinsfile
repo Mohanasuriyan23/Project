@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('Hello This change for Jenkins Project ') 
+        stage('Hello This change for Jenkins Projects ') 
         {
             steps 
             {
